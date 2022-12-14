@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f9cec28-4d2c-4541-bfe3-bac6185c9495" name="Changes" comment="Ejercicio tema 2 - Java Basico">
-      <change afterPath="$PROJECT_DIR$/src/com/example/PrecioIva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/ConcatenarTexto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema1-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ob-ejerciciosJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +41,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/SISTEMAS/Tutoriales/CURSOS/Campus-bootcamp/ob-ejerciciosJava",
+    "last_opened_file_path": "F:/SISTEMAS/Tutoriales/CURSOS/Campus-bootcamp/ob-javaBasico",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrecioIva">
+  <component name="RunManager" selected="Application.ConcatenarTexto">
+    <configuration name="ConcatenarTexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ConcatenarTexto" />
+      <module name="ob-ejerciciosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Main" />
       <module name="ob-ejerciciosJava" />
@@ -76,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcatenarTexto" />
         <item itemvalue="Application.PrecioIva" />
         <item itemvalue="Application.Main" />
       </list>
@@ -97,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670898406260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio tema 2 - Java Basico">
+      <created>1671021965525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671021965525</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
